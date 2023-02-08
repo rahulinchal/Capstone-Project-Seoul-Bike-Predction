@@ -12,3 +12,10 @@ Conclusion
 * We can deploy this model.
 
 * However, this is not the ultimate end. As this data is time dependent, the values for variables like temperature, windspeed, solar radiation etc., will not always be consistent. Therefore, there will be scenarios where the model might not perform well. As Machine learning is an exponentially evolving field, we will have to be prepared for all contingencies and also keep checking our model from time to time. Therefore, having a quality knowledge and keeping pace with the ever evolving ML field would surely help one to stay a step ahead in future.
+
+Power BI dashboard
+
+![Power Bi Dashboard for SeoulBikePrediction](https://user-images.githubusercontent.com/111626329/217566825-6fb95b0f-07d9-4939-b750-467ba4ac85b5.png)
+
+
+![Power Bi Dashboard fro SeoulBikePrediction2](https://user-images.githubusercontent.com/111626329/217566848-8efa28be-0a25-49c3-9b4e-8adc2b415d0d.png)
